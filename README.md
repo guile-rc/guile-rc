@@ -1,4 +1,4 @@
-![](./GRC verde.png)
+![./GRC verde.png](https://github.com/guile-rc/guile-rc/blob/main/GRC%20verde.png?raw=true)
 
 ```
                          G U I L H E R M E      R O C H A      C A S T R O
