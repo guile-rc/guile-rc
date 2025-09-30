@@ -1,4 +1,4 @@
-![Guilherme Rocha Caſtro](GRC verde.png)
+![](./GRC verde.png)
 
 ```
                          G U I L H E R M E      R O C H A      C A S T R O
