@@ -30,5 +30,3 @@ OOOOOOOkOx.  .:O0x'.........              ..........'''.      ..............:OXX
 ;,......                                                                        .....';cc,;cxk:.''.,
                          G U I L H E R M E      R O C H A      C A S T R O                                                                                                  
 ```
-
-# Guilherme R.C.
